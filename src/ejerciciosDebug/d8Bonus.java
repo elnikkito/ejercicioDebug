@@ -36,3 +36,6 @@ public class d8Bonus {
         System.out.println();
     }
 }
+/*
+Este programa por lo que veo y mas o menos entiendo lo que esta haciendo es ordenar una lista de numeros ya dados de menor a mayor
+*/
