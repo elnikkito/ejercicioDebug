@@ -12,7 +12,7 @@ public class d1debugWhile1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int num =0;
+		int num=0;
 		int i = 1;
 		
 		//solicito por pantalla numero a calcular la tabla
@@ -22,7 +22,7 @@ public class d1debugWhile1 {
 		
 		System.out.println("Imprimo los numeros");
 		
-		while (i>num) {
+		while (i<=num) {
 			System.out.println("Numero "+i);
 			i++;
 		}
