@@ -18,9 +18,9 @@ public class d4debugFactorial {
 		num2 = num;
 		while (num2>2) {
 			num2 = num2 -1;
-			fact = num * num2;			
+			fact = fact * num2;			
 		}
-		System.out.print("El factorial de "+num+" es "+fact);
+		System.out.println("El factorial de "+num+" es "+fact);
 
 	}
 
