@@ -24,6 +24,7 @@ public class d2debugWhile2 {
 		
 		while (i<num) {
 			System.out.println("Numero "+i);
+                        i++;
 		}
 
 	}
